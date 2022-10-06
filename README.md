@@ -1,4 +1,4 @@
-# Test-QA-Engineer-Stockbit
+# Test-QA-Engineer-Stockbit (For UI Automation (Android))
 
 Code Editor : IntelliJ IDEA
 
